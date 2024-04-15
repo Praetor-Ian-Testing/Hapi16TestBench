@@ -38,11 +38,11 @@
     "hooker": "^0.2.3",
     "inert": "^4.2.1",
     "libxmljs": "^0.19.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.17",
     "mongodb": "^2.2.31",
     "mongoose": "^5.7.8",
     "mysql": "^2.14.1",
-    "newrelic": "^4.1.4",
+    "newrelic": "^6.5.0",
     "pem": "^1.14.3",
     "vision": "^4.1.1",
     "visionary": "^6.0.2"
